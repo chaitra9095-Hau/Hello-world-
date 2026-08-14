@@ -1,7 +1,0 @@
-I installed Visual Studio Code and added the C/C++ extension.  
-At first, gcc was not recognized in the terminal.  
-I solved this by adding MinGW-w64 to the PATH environment variable.  
-After restarting VS Code, gcc --version worked correctly.  
-Then I compiled hello.c and ran it successfully.  
-The terminal printed "Hello, World!" as expected.  
-This confirms my C/C++ environment is working fine.
