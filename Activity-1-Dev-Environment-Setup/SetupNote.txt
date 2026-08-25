@@ -1,5 +1,0 @@
-I installed VS Code and the C/C++ extension.
-Configured MinGW-w64 and added its path to environment variables.
-Initially, gcc was not recognized, but fixing PATH solved it.
-Compiled hello.c successfully and ran Hello, World!
-This confirms my C environment is ready for portfolio work.
